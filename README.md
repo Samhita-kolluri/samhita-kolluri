@@ -10,7 +10,7 @@ Passionate about leveraging AI to solve real-world problems, I aim to create inn
 
 
 ## ✍️ Latest Blog
-- [**From Theory to Practice: Research Driving PhysioPro’s AI Motion Correction**](https://medium.com/@samhitakolluri) - Generative AI for Physiotherapy Motion Correction.
+- [**From Theory to Practice: Research Driving PhysioPro’s AI Motion Correction**](https://medium.com/@samhitakolluri/from-theory-to-practice-research-driving-physiopros-ai-motion-correction-4ac64eb84333) - Generative AI for Physiotherapy Motion Correction.
 
 Feel free to check out my Medium profile for more articles: [**Medium**](https://medium.com/@samhitakolluri)
  
